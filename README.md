@@ -1,4 +1,6 @@
 # Day-1-Carzy-Taxi_7_Muhammad-Hafidz
 Repository ini merupakan dokumentasi kegiatan workshop dengan tema Building with AI, Managing Change with GitHub. Repository berisi materi pembelajaran, rangkuman, pengetahuan baru, serta hasil praktik yang diperoleh selama mengikuti kegiatan workshop.
-Tujuannya untuk mendokumentasikan materi yang disampaikan selama workshop, memahami penggunaan AI dalam membantu proses pembuatan aplikasi, memahami konsep Git dan GitHub sebagai alat pengelolaan versi proyek, Mempelajari proses penyimpanan dan pengelolaan perubahan kode., dan menyimpan hasil praktik pembuatan aplikasi Student Task Planner.
+
+Tujuannya untuk mendokumentasikan materi yang disampaikan selama workshop, memahami penggunaan AI dalam membantu proses pembuatan aplikasi, memahami konsep Git dan GitHub sebagai alat pengelolaan versi proyek, Mempelajari proses penyimpanan dan pengelolaan perubahan kode.
+
 Materi yang dibahas meliputi Prompt Engineering dan struktur prompt, Pengenalan Git dan GitHub, Git Workflow dan Version Control, Perintah dasar Git, Menghubungkan repository lokal dengan GitHub, Git Setup dan SSH Key, serta Praktik pembuatan Student Task Planner.
