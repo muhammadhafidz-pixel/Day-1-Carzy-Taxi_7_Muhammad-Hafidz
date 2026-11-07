@@ -1,0 +1,49 @@
+DOKUMENTASI KEGIATAN WORKSHOP
+Judul : Building with AI, Managing Change with GitHub
+
+Pemateri: Nugi Farhan  
+Jabatan: Senior Product Designer
+
+Workshop ini membahas pemanfaatan AI dalam proses pembuatan aplikasi
+serta penggunaan Git dan GitHub untuk mengelola perubahan proyek.
+Kegiatan ini bertujuan membantu peserta memahami cara memberikan
+instruksi yang tepat kepada AI dan mengenal dasar-dasar version control.
+
+- Materi Workshop
+Pada bagian pertama, peserta mempelajari Prompt Engineering, yaitu cara
+menyusun instruksi agar AI menghasilkan jawaban yang sesuai kebutuhan.
+Materi menjelaskan bahwa prompt yang baik memiliki empat bagian, yaitu
+Role untuk menentukan peran AI, Task untuk menjelaskan tugas, Context
+untuk memberikan latar belakang, dan Format untuk menentukan bentuk
+hasil yang diinginkan.
+
+Selanjutnya, workshop membahas Git dan GitHub. Git merupakan sistem
+version control yang digunakan untuk melacak perubahan pada file proyek,
+sedangkan GitHub merupakan platform online untuk menyimpan repository
+Git dan mendukung kolaborasi. Peserta juga diperkenalkan dengan tiga
+bagian dalam Git Workflow, yaitu Working Directory sebagai tempat
+mengerjakan file, Staging Area sebagai tempat menyiapkan perubahan, dan
+Git Directory sebagai tempat Git menyimpan informasi repository.
+
+Materi berikutnya memperkenalkan beberapa perintah dasar Git, seperti
+git init untuk memulai repository, git add untuk menyiapkan
+perubahan, git commit untuk menyimpan perubahan ke riwayat repository,
+git push untuk mengirim perubahan ke GitHub, dan git pull untuk
+mengambil perubahan dari repository remote. Workshop juga menjelaskan
+konfigurasi identitas Git serta pengenalan SSH Key untuk autentikasi ke
+GitHub.
+
+- Praktik Workshop
+Pada sesi praktik, peserta diarahkan membuat aplikasi sederhana bernama
+Student Task Planner dengan bantuan platform AI. Alur kegiatan dimulai
+dengan memilih platform AI, menulis prompt untuk membuat aplikasi,
+memasukkan proyek ke Git, kemudian melakukan commit dan push ke GitHub.
+Setelah proyek diubah, peserta melakukan commit dan push kembali agar
+perubahan terbaru tersimpan di repository.
+Rangkuman dan Hasil Pembelajaran
+Dari workshop ini, saya memahami bahwa AI dapat membantu proses
+pembuatan aplikasi apabila diberikan instruksi yang jelas dan memiliki
+konteks. Saya juga mempelajari perbedaan Git dan GitHub serta alur dasar
+untuk mengelola perubahan proyek menggunakan staging, commit, push, dan
+pull. Pengetahuan ini menjadi dasar untuk membuat proyek sederhana dan
+menyimpan perkembangannya secara teratur di GitHub.
